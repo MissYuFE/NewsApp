@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EveryDayNews</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_aysn_progress">AysnProgressActivity</string>
+    <string name="title_activity_news_web">NewsWebActivity</string>
+
+</resources>
